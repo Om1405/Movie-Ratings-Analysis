@@ -1,76 +1,78 @@
 # 🎬 Movie Rating Analysis - RSVP Movies
 
 **Author**: Om Pawar  
-**Project Type**: SQL Data Analysis  
-**Domain**: Entertainment / Film Production  
-**Client**: RSVP Movies
+**Project Type**: Data Analysis using SQL  
+**Client**: RSVP Movies  
+**Domain**: Film and Entertainment  
 
 ---
 
 ## 📌 Project Overview
 
-This project focuses on analyzing IMDb movie ratings data to derive actionable business insights for RSVP Movies. The objective is to uncover patterns in genre popularity, rating trends, performance of talent, and viewer preferences to guide strategic decision-making in content production and release planning.
+This project aims to analyze IMDb movie data to derive strategic insights for RSVP Movies. Using SQL and a relational movie database, the analysis focuses on identifying popular genres, evaluating rating trends, and studying the impact of actors, directors, and timing on movie success. The objective is to guide content production, collaboration choices, and release strategies.
 
 ---
 
-## 🗂️ Project Components
+## 🧩 Project Files
 
-- **SQL Script**: `Movie_Rating_Analysis.sql` – contains queries used for data extraction and analysis.
-- **Executive Report**: `RSVP_Movies_Executive_Summary.pdf` – summarizes the insights and strategic recommendations.
-  
+- `IMDB+dataset+import.sql`: SQL script for importing IMDb movie data into a relational database.
+- `Movie_Rating_Analysis.sql`: SQL queries used for analysis.
+- `IMDb movies Data and ERD final.xlsx`: Contains data samples and the Entity Relationship Diagram (ERD).
+- `RSVP_Movies_Executive_Summary.pdf`: A high-level business summary of findings and recommendations.
+
 ---
 
-## 🔍 Key Insights
+## 🔍 Key Insights (from Executive Summary)
 
-### 1. 📊 Popular Genres
-- Drama, Action, and Comedy dominate the IMDb database.
-- These genres are crowd-pleasers and offer broad appeal.
+### 1. 📚 Popular Genres
+- **Drama**, **Action**, and **Comedy** are the most represented genres.
+- These genres attract broader audiences and should be prioritized.
 
 ### 2. ⭐ Rating Trends
-- Movies with higher IMDb ratings tend to perform better at the box office.
-- Audience satisfaction strongly correlates with commercial success.
+- Movies with higher average IMDb ratings show consistent box office performance.
+- Focus on creating content that resonates with audience quality expectations.
 
-### 3. 🎬 Talent & Directors
-- Proven directors and actors are consistently associated with hit movies.
-- Strategic partnerships with such talent can significantly boost outcomes.
+### 3. 🎭 Talent and Directors
+- Certain actors and directors are linked with consistently successful movies.
+- Partnering with such proven talents can enhance project outcomes.
 
 ### 4. 📅 Release Timing
-- Releasing films during holidays or festivals improves audience turnout.
-- Timing should be an integral part of the marketing strategy.
+- Strategic releases during festivals or holidays significantly impact performance.
+- Timing should be aligned with peak viewing periods.
 
 ### 5. 🧠 Viewer Preferences
-- Audiences favor original content over remakes.
-- Investing in unique scripts and creative storytelling pays off.
+- Original storylines are preferred over remakes.
+- Innovation and uniqueness are essential for engagement.
 
 ---
 
-## 💡 Recommendations
+## 💡 Recommendations for RSVP Movies
 
-- Prioritize production of **Drama, Action, and Comedy** films.
-- Partner with **top-tier directors and actors** with established success.
-- Schedule releases around **peak seasons** to maximize box office returns.
-- Focus on **original, high-quality scripts** that match audience interests.
+- Prioritize **Drama, Action, and Comedy** in future productions.
+- Collaborate with **high-profile directors and actors** with strong track records.
+- Plan **strategic release windows** for higher reach and profitability.
+- Invest in **original scripts** that appeal to current viewer interests.
 
 ---
 
-## 🧠 Tools & Technologies
+## 🛠️ Technologies Used
 
 - SQL (Structured Query Language)
-- IMDb dataset
-- Data visualization & summary tools (external to this repo)
+- Relational Database (ERD model)
+- Excel for visualization and data modeling
+- PDF for business reporting
 
 ---
 
 ## 📬 Contact
 
 **Om Pawar**  
-📧 Email: [your.email@example.com]  
+📧 Email: [pawarom14112002@gmail.com]  
 📍 Mumbai, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) *(Replace with your actual link)*
+🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/pawarom14)
 
 ---
 
 ## 📜 License
 
-This project is created for educational and strategic consulting purposes only. All data belongs to its original source.
-
+This project is intended for academic, analytical, and strategic advisory purposes only. All data and content belong to their respective sources.
